@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto Slab, serif;
+}
+
+header h1 {
+    text-align: center;
+    justify-content: center;
+    padding: 6rem;
+    font-size: 3rem;
+}
+
+main {
+    text-align: center;
+    justify-content: center;
+    padding: 4rem;
+}
+
+input {
+    border: 8px solid black;
+    font-size: 20px;
+}
+
+.botao_mais {
+    font-size: 28px;
+    cursor: pointer;
+
+}
+
+.palavras {
+    padding: 1.5rem;
+}
+
+.lapis1 {
+    width: 1rem;
+    cursor: pointer;
+}
+
+.lixo1 {
+    width: 1rem;
+    cursor: pointer;
+}
+
+.lapis2 {
+    width: 1rem;
+    cursor: pointer;
+}
+
+.lixo2 {
+    width: 1rem;
+    cursor: pointer;
+}
+
+.lapis3 {
+    width: 1rem;
+    cursor: pointer;
+}
+
+.lixo3 {
+    width: 1rem;
+    cursor: pointer;
+}
